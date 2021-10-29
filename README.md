@@ -1,1 +1,8 @@
 # PCorelbox
+节点1（自建服务器，通用）：https://soulblaze.unaux.com （每日请求上限50000）
+
+节点2（GitHub，国外）：https://github.com/idhaname/PCorelbox/releases
+
+节点3（微云网盘，国内）：https://share.weiyun.com/6UvaTtn2
+
+节点4（迅雷云盘，国内）：https://pan.xunlei.com/s/VMl3jvCbsomDtoGQo-4VstPzA1 （提取码：nens）
