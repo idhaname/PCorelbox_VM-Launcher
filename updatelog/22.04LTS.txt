@@ -1,0 +1,18 @@
+内部测试1：
+修复了一些bug
+启动管理器新增“从Windows 98恢复盘DOS启动”选项
+
+内部测试2：
+修复了一些bug
+更改了编译信息
+新增了帮助文件
+
+SoftwarePack：
+新增Malware-Patch（阻止指定软件的管理员授权，开源地址：https://github.com/the1812/Malware-Patch）
+
+内部测试3：
+修复了一些bug
+
+DevtoolsPack：
+1.新增全套SysinternalsSuite
+2.新增Win7高级系统账户启动器.bat

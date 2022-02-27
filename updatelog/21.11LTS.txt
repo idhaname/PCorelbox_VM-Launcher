@@ -1,0 +1,29 @@
+写在最前：
+这个软件包含了所有（作者自己）认为有用的东西，经过两年的发展，终于搞出了这个LTS版本。
+该版本是一个大改动，所以推到了2021年11月发布。以后的版本只发行Full Edition。
+
+通用：
+更改软件包
+Ultimate：取消了SE（自解压）版本，更名为SoftwarePack
+updatesupport：重命名成UpdatePack
+新增DevtoolsPack
+新增Full Edition（SoftwarePack、UpdatePack、DevtoolsPack的集合）
+删除了2021 National Day Special Edition，替换为21.11LTS
+
+SoftwarePack更新内容：
+1.移除了windbg
+2.将setup.bat重命名为launcher.bat
+3.增加了winmine.exe（XP扫雷）
+4.添加了“英语不再受支持”的警告
+5.添加了“为Windows XP（32位）安装Firefox52.9.0esr并打好补丁”功能
+6.为开发者测试模式加入了“激活Windows”功能
+7.为开发者测试模式加入了“退出开发者测试模式”（再次输入devtest）功能
+8.将NTSD.EXE移动到DevtoolsPack中
+9.将JiYuTrainer.exe移动到DevtoolsPack中
+10.将procexp.exe移动到DevtoolsPack中
+
+UpdatePack更新内容：
+1.添加了补丁的自动静默安装程序
+
+DevtoolsPack更新内容：
+1.如上述，将NTSD.EXE、JiYuTrainer.exe等程序移动到了该包里

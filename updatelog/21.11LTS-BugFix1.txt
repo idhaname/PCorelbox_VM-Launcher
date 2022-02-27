@@ -1,0 +1,5 @@
+修复了一些bug
+
+UpdatePack更新内容：
+添加了为Windows XP开启TLS1.1和1.2支持的补丁安装
+添加了为Windows XP媒体中心版的安装补丁
