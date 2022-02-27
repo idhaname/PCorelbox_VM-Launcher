@@ -1,0 +1,41 @@
+================================关于 PCorelbox==================================
+PCorelbox Version Information:
+Channel:LTS
+Version:22.01LTS-Beta3
+
+PCorelbox版本信息：
+频道：长期支持通道
+版本：22.04长期支持版-测试3
+
+--------------------
+
+作者 GitHub and Gitee @idhaname
+版权所有 2020-2022 灵魂-烈焰之杖工作室。使用Apache 2.0协议授权（见下）。
+*了解更多，请访问 https://idhaname.github.io/lab/pcorelbox.html
+
+--------------------
+
+Copyright 2020-2022 Soul-Blaze rod Studios
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+
+See the License for the specific language governing permissions and
+limitations under the License.
+
+--------------------
+
+设备信息（XP及以下版本可能会显示错误）:
+编译平台详细信息:
+Microsoft Windows 10（专业版）
+版本21H2（操作系统内部版本19044.1526）
+64位（x64,x86_64,AMD64）
+
+运行平台详细信息:
