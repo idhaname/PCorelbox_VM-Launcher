@@ -8,9 +8,9 @@ PCorelbox下载节点：
 
 节点1-韩国镜像：
 
-节点2（迅雷云盘，国内，提供所有版本）：[https://pan.xunlei.com/s/VMl3jvCbsomDtoGQo-4VstPzA1](https://pan.xunlei.com/s/VMl3jvCbsomDtoGQo-4VstPzA1) （提取码：nens）
+节点2（迅雷云盘，国内，仅提供最新版本）：[https://pan.xunlei.com/s/VMl3jvCbsomDtoGQo-4VstPzA1](https://pan.xunlei.com/s/VMl3jvCbsomDtoGQo-4VstPzA1) （提取码：nens）
 
-节点3（自建服务器，国外，提供所有版本，不安全，无证书，不稳定，会被随时弃用）：[http://soulblaze.unaux.com/files/PCorelbox](http://soulblaze.unaux.com/files/PCorelbox) （每日请求上限50000）
+节点3（自建服务器，国外，仅提供下载器，不安全，无证书，不稳定，会被随时弃用）：[http://soulblaze.unaux.com/files/PCorelbox](http://soulblaze.unaux.com/files/PCorelbox) （每日请求上限50000）
 
 节点4（微云网盘，国内，仅提供最新版本）：
 
